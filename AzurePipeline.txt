@@ -1,0 +1,2 @@
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/add-template-to-azure-pipelines
+https://docs.microsoft.com/en-us/azure/devops/pipelines/library/service-endpoints?view=azure-devops&tabs=yaml
